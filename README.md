@@ -2,7 +2,7 @@
 
 This project is a high-fidelity recreation of the hero section, navigation bar, and two bonus sections of the official LEO9 Studio website, completed as part of an internship assignment. The goal was to replicate the design, responsiveness, and feel of the original site, demonstrating modern frontend development skills.
 
-**Live Demo URL:** [leoclonehere.netlify.app]
+**Live Demo URL:** leoclonehere.netlify.app
 
 ---
 
