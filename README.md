@@ -2,25 +2,25 @@
 
 This project is a high-fidelity recreation of the hero section, navigation bar, and two bonus sections of the official LEO9 Studio website, completed as part of an internship assignment. The goal was to replicate the design, responsiveness, and feel of the original site, demonstrating modern frontend development skills.
 
-**Live Demo URL:** leoclonehere.netlify.app
+**Live Demo URL:** [**https://leoclonehere.netlify.app/**](https://leoclonehere.netlify.app/)
 
 ---
 
 ##  Project Screenshot
 
-![Screenshot of the LEO9 Clone project](./project-screenshot.png)
-*(Note: You can upload your own screenshot to the GitHub repository and update this link.)*
+![Screenshot of the LEO9 Clone project] <img width="1887" height="965" alt="image" src="https://github.com/user-attachments/assets/d0524e11-d17c-42cc-a803-3863feb4a4e9" />
+)
+
 
 ---
 
 ##  Features Implemented
 
 -   **Responsive Navbar:** A fixed navigation bar that is fully responsive, collapsing into a hamburger menu on mobile devices.
--   **Interactive Hero Section:** A full-screen hero section featuring a background image and clean text overlay.
+-   **Hero Section:** A full-screen hero section featuring a professional background image and clean text overlay.
 -   **Bonus Section 1 (About):** The first bonus section with a descriptive paragraph, styled to match the original site.
 -   **Bonus Section 2 (Clients):** The second bonus section showcasing a list of trusted clients.
--   **Smooth Scrolling:** All navigation links scroll smoothly to the corresponding sections of the single-page application.
--   **Animations:** Subtle fade-in-on-scroll animations for the bonus sections to enhance user experience.
+-   **Clean, Static Build:** A robust and stable website built without overly complex animations to ensure a great user experience and reliable performance.
 
 ---
 
@@ -31,9 +31,8 @@ This project was built using a modern frontend stack:
 -   **Framework:** [React.js](https://react.dev/)
 -   **Build Tool:** [Vite](https://vitejs.dev/)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
--   **Animations:** [Framer Motion](https://www.framer.com/motion/)
--   **Smooth Scrolling:** [React Scroll](https://github.com/fisshy/react-scroll)
 -   **Icons:** [Lucide React](https://lucide.dev/)
+-   **Deployment:** [Netlify](https://www.netlify.com/)
 
 ---
 
@@ -43,11 +42,11 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/leo9-clone.git](https://github.com/your-username/leo9-clone.git)
+    git clone [https://github.com/RitneshSrivastava/leo9-clone.git](https://github.com/RitneshSrivastava/leo9-clone.git)
     ```
 2.  **Navigate into the project directory:**
     ```bash
-    cd leo9-clone
+    cd leo9-clone/leo9-clone
     ```
 3.  **Install dependencies:**
     ```bash
